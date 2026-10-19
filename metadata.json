@@ -1,0 +1,7 @@
+{
+  "name": "SaveMoney - Control de Gastos Inteligente",
+  "description": "Aplicación financiera minimalista y elegante para control de gastos, presupuestos con alertas, categorización automática con IA, sincronización bancaria, reportes visuales mensuales, autenticación biométrica y modo offline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
